@@ -32,7 +32,7 @@ https://www.hostinger.co.uk/
 
 
 ## Todo:
-1. Read the text from receipt
+1. Read the text from receipt image where image is stored in url 
 2. Allow user upload receipt
 2a. Create UI for user to upload receipt
 2b. Save the receipt info into DB / cloudinary
